@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @two-tiger
-- 👀 I’m interested in python, c, machine learning, tensorflow and so on...
+- 👀 I’m interested in python, c, machine learning, pytorch and so on...
 - 🌱 I’m currently learning python , c and machine learning
-- 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me ? you can send email for me by XinquanChen@163.com
 
 <!---
